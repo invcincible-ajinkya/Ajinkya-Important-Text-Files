@@ -1,0 +1,39 @@
+1.React Hooks
+2.State Management
+3.Life Cycle Methods
+4.Higher Order Components
+5.Creating Custom Hooks
+6.Lazy Loading/Code Splitting/Code Chunking/Suspense/Callbacl/Fallback UI
+7.Virtual DOM
+    -Reconsilation
+    -React Fiber
+    -Diff Algorithm
+    -Re-render Of Component
+8.SSR(Server Side Rendering) and CSR(Client Side Rendering)
+9.Routing & RBAC{Role Based Access Control}
+    -Protected Routes
+    -Query Params
+    -Dynamic Routing 
+10.Unit Testing of React Applications
+    -RTL
+    -JEST
+11.Async Tasks
+    -API calls
+    -UseEffect/Events
+    -Promises
+12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
